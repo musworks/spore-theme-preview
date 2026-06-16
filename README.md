@@ -1,7 +1,6 @@
-# Project Spore Preview Repository
+# Project Spore Theme Preview
 
-This repository contains only the generated static public preview build for Project Spore Creative Market Edition.
+A public static preview of Project Spore, a botanical Hugo starter kit for digital gardens, personal notes, essays, and quiet knowledge ecosystems.
 
-The full editable Hugo starter kit, theme source, content source, layouts, and marketplace package files are not included here.
-
-If you want the complete product package for editing and reuse, please get it through the marketplace listing.
+This repository contains only the generated static preview site.
+The full editable Hugo starter kit is available on Gumroad.
